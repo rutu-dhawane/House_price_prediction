@@ -2,16 +2,16 @@
 
 📌 Project Overview
 
-This project aims to predict house prices using machine learning techniques. The model analyzes different features of houses such as location, area and other attributes to estimate the price o
+This project aims to predict house prices using machine learning techniques. The model analyzes different features of houses such as location, area and other attributes to estimate the price of house.
 
 🔍 Project Steps
 
-Data Collection
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Feature Selection
-Model Training
-Model Evaluation
+Data Collection,
+Data Cleaning,
+Exploratory Data Analysis (EDA),
+Feature Selection,
+Model Training,
+Model Evaluation,
 Prediction
 
 🤖 Machine Learning Model
